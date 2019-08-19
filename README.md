@@ -1,5 +1,5 @@
 
-# Module 1 Final Project
+# Linear Regression Housing Price Predictor
 
 ## Project Description
 
