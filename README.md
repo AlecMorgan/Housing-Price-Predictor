@@ -1,4 +1,3 @@
-
 # Housing Price Predictor
 
 ## Project Description
@@ -9,4 +8,4 @@ In this project we look to predict the prices of houses in King County using mul
 
 [Blog Post](https://medium.com/@alecnmorgan/adventures-in-predictor-selection-2d0333aa0c05)
 
-[Jupyter Notebook](https://github.com/AlecMorgan/dsc-1-final-project-seattle-ds-career-040119/blob/master/student.ipynb)
+[Jupyter Notebook](https://github.com/AlecMorgan/dsc-1-final-project-seattle-ds-career-040119/blob/master/index.ipynb)
